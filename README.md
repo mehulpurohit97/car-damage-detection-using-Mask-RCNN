@@ -10,7 +10,9 @@ The repository includes:
 * Jupyter notebooks to visualize the detection pipeline at every step
 * Example of training on your own dataset
 
-![](images/val/val1.jpg)
+# Example
+
+![](images/val/val1.jpg)  ![](predicted images/val1.png)
 
 
 
