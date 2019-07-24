@@ -12,9 +12,10 @@ The repository includes:
 
 # Example
 
-![](images/val/val1.jpg)
-<img src="images/val/val1.jpg">
-<img src="predicted%20images/val1.png" width="500" height="400">
+<p float="left">
+  <img src="images/val/val1.jpg" />
+  <img src="predicted%20images/val1.png" width="400" height=300" /> 
+</p>
 
 
 
