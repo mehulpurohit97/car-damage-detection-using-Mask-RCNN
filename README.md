@@ -12,8 +12,8 @@ The repository includes:
 
 # Example
 
-![](images/val/val1.jpg)  ![](predicted images/val1.png)
-
+![](images/val/val1.jpg)  
+![](images/val/val2.jpg)
 
 
 
