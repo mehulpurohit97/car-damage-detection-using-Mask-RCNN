@@ -10,13 +10,28 @@ The repository includes:
 * Jupyter notebooks to visualize the detection pipeline at every step
 * Example of training on your own dataset
 
-# Example
+# Examples
 
 <p float="left">
-  <img src="images/val/val1.jpg" />
+  <img src="images/val/val1.jpg" width="415" height=315"/>
   <img src="predicted%20images/val1.png" width="415" height=315" /> 
 </p>
-
+<p float="left">
+  <img src="images/val/val2.jpg" width="415" height=315"/>
+  <img src="predicted%20images/val2.png" width="415" height=315" /> 
+</p>
+<p float="left">
+  <img src="images/val/val3.jpeg" width="415" height=315"/>
+  <img src="predicted%20images/val3.png" width="415" height=315" /> 
+</p>
+<p float="left">
+  <img src="images/val/val4.jpg" width="415" height=315"/>
+  <img src="predicted%20images/val4.png" width="415" height=315" /> 
+</p>
+<p float="left">
+  <img src="images/val/val5.jpg" width="415" height=315"/>
+  <img src="predicted%20images/val5.png" width="415" height=315" /> 
+</p>
 
 
 # Getting Started
