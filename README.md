@@ -13,7 +13,7 @@ The repository includes:
 # Example
 
 ![](images/val/val1.jpg)  
-![](predicted\'images/val1.png)
+![](predicted%20images/val1.png)
 
 
 
