@@ -14,7 +14,7 @@ The repository includes:
 
 <p float="left">
   <img src="images/val/val1.jpg" />
-  <img src="predicted%20images/val1.png" width="400" height=300" /> 
+  <img src="predicted%20images/val1.png" width="450" height=350" /> 
 </p>
 
 
