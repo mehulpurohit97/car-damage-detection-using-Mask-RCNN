@@ -10,7 +10,7 @@ The repository includes:
 * Jupyter notebooks to visualize the detection pipeline at every step
 * Example of training on your own dataset
 
-!(images/val/val1.jpg)
+![](images/val/val1.jpg)
 
 
 
@@ -41,7 +41,7 @@ To help with debugging and understanding the model, there are 3 notebooks
 
 
 ## 1. Anchor sorting and filtering
-Visualizes every step of the first stage Region Proposal Network and displays positive and negative anchors along with anchor box refinement.
+Visualizes every step of the first stage Region Proposal Network and displays positive and negative anchors along with anchor box refinement.[]
 ![](assets/detection_anchors.png)
 
 ## 2. Bounding Box Refinement
